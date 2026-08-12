@@ -5,30 +5,28 @@
 <h1 align="center">AgentKiller45</h1>
 
 <p align="center">
-  Had I not seen the Sun,I could have borne the shade.But Light a newer WildernessMy Wilderness has made.
+  Had I not seen the Sun, I could have borne the shade. But Light a newer Wilderness, my Wilderness has made.
 </p>
 
 ---
 
-### A point of view
+### A Point of View
 
-Intelligence do not judge for us.
+Intelligence does not relieve us of judgment.
 
-An agent can search a wider space, execute more paths, and surface possibilities that a person may never reach alone. But more possibilities do not automatically produce a better direction. Why Human can evolve so fast in the long history, because we always select the most effective way by our intelligence.
+Agents can search a wider space, pursue more paths, and surface possibilities that a person might never reach alone. But more possibilities do not necessarily reveal a better direction. Human progress has never depended on intelligence alone; it has depended on our ability to judge, select, and refine the paths worth pursuing.
 
-I am interested in the boundary between the two:
+I am interested in the boundary between human judgment and machine intelligence:
 
 - what should be delegated, and what should remain a human responsibility;
 - how autonomy can expand capability without dissolving accountability;
-- how systems can remain understandable while becoming more capable;
+- how systems can grow more capable while remaining understandable;
 - how tools can challenge our thinking without quietly replacing it.
 
-### How I think about future of AI 
+### How I Think About the Future of AI
 
 Agents are not substitutes for intent. They are instruments for extending it.
 
-The most valuable systems do more than complete a task. They make exploration cheaper, consequences more visible, and revision more natural. They help a person encounter more possibilities while preserving the ability to question, refuse, and choose.
+The most valuable systems do more than complete tasks. They make exploration less costly, consequences more visible, and revision more natural. They allow us to encounter more possibilities while preserving our ability to question, refuse, and choose.
 
-That requires more than better models. It requires thoughtful boundaries, observable actions, reversible decisions, and a clear place for human judgment.
-
-
+That future requires more than better models. It requires thoughtful boundaries, observable actions, reversible decisions, and a clear, irreducible role for human judgment.
