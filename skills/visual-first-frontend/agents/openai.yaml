@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual-First Frontend"
+  short_description: "Turn imaginative design images into verified frontend code"
+  default_prompt: "Use $visual-first-frontend to design and build this interface through screenshot-based visual iteration."
